@@ -5,3 +5,4 @@ in embertale there are 4 classes-
 3. peasant can use the hit command
 4. archer can use the hit command and the shoot command.
 move around using n, s, e and w.
+play knight quest first!
